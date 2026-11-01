@@ -1,7 +1,7 @@
 # ubiquitous-octo-parakeet
 
-Shadow Wrath Midnight
-parva sub ingenti
+# Shadow Wrath Midnight
+# parva sub ingenti
 
-Just some example code
+# Just some example code
 
